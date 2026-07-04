@@ -21,17 +21,6 @@ Built for **Gen AI Academy APAC Edition** (Google Cloud x H2S) — Challenge: *A
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Deploy for free (Streamlit Community Cloud)
-See the step-by-step guide provided separately, or:
-1. Push this folder to a public GitHub repo.
-2. Go to https://share.streamlit.io → "New app" → connect your GitHub repo → select `app.py` → Deploy.
-3. (Optional, for full AI mode) In app Settings → Secrets, add:
-   ```
-   GEMINI_API_KEY = "your-free-key-from-aistudio.google.com"
-   ```
-4. You'll get a public URL like `https://citypulse-ai.streamlit.app` — this is your submission link.
-
 ## Project structure
 ```
 app.py                    # Main Streamlit application
