@@ -1,0 +1,221 @@
+report_id,timestamp,area,category,description,priority,status
+CP1052,2026-05-20 11:17,Katargam,Water Supply,Loud construction noise early morning disturbing residents in Katargam,Medium,In Progress
+CP1169,2026-05-20 16:17,Piplod,Parks & Environment,Open manhole is a safety hazard in Piplod,Medium,Resolved
+CP1069,2026-05-20 17:17,Piplod,Water Supply,Illegal dumping of waste near the drainage in Piplod,Medium,In Progress
+CP1202,2026-05-21 10:17,City Light,Parks & Environment,Garbage not collected for 3 days in City Light,Low,In Progress
+CP1086,2026-05-21 20:17,City Light,Street Lighting,Loud construction noise early morning disturbing residents in City Light,Low,In Progress
+CP1073,2026-05-22 15:17,Piplod,Public Safety,"Streetlights not working, area is dark and unsafe at night in Piplod",High,Open
+CP1122,2026-05-22 15:17,Adajan,Parks & Environment,Loud construction noise early morning disturbing residents in Adajan,Medium,In Progress
+CP1207,2026-05-22 15:17,Adajan,Public Safety,Illegal dumping of waste near the drainage in Adajan,Medium,In Progress
+CP1054,2026-05-22 19:17,Varachha,Water Supply,Large pothole causing traffic slowdown near Varachha main road,Low,Resolved
+CP1064,2026-05-23 06:17,City Light,Waste Management,"Public park in City Light needs maintenance, broken benches",High,Open
+CP1176,2026-05-23 06:17,Adajan,Noise/Nuisance,Illegal dumping of waste near the drainage in Adajan,Medium,Resolved
+CP1186,2026-05-23 07:17,City Light,Waste Management,Loud construction noise early morning disturbing residents in City Light,Medium,Resolved
+CP1050,2026-05-23 10:17,Katargam,Street Lighting,Reports of unsafe stray dog activity near school in Katargam,Medium,Open
+CP1184,2026-05-23 12:17,Katargam,Street Lighting,Illegal dumping of waste near the drainage in Katargam,Low,Open
+CP1153,2026-05-23 17:17,Varachha,Water Supply,Reports of unsafe stray dog activity near school in Varachha,Critical,Open
+CP1178,2026-05-23 20:17,Piplod,Traffic & Mobility,Open manhole is a safety hazard in Piplod,Critical,In Progress
+CP1113,2026-05-24 01:17,Katargam,Roads & Potholes,Open manhole is a safety hazard in Katargam,Low,Open
+CP1039,2026-05-24 02:17,Piplod,Noise/Nuisance,Water pipeline leakage flooding the street in Piplod,Low,Open
+CP1161,2026-05-24 03:17,Adajan,Parks & Environment,Reports of unsafe stray dog activity near school in Adajan,Low,Resolved
+CP1045,2026-05-24 08:17,Vesu,Public Safety,Loud construction noise early morning disturbing residents in Vesu,Low,Resolved
+CP1121,2026-05-24 13:17,Vesu,Public Safety,Garbage not collected for 3 days in Vesu,Low,Open
+CP1072,2026-05-25 15:17,Adajan,Public Safety,Open manhole is a safety hazard in Adajan,Medium,In Progress
+CP1105,2026-05-25 15:17,Katargam,Public Safety,Open manhole is a safety hazard in Katargam,Low,Resolved
+CP1137,2026-05-25 15:17,Piplod,Water Supply,Reports of unsafe stray dog activity near school in Piplod,Medium,In Progress
+CP1102,2026-05-25 16:17,Varachha,Parks & Environment,Illegal dumping of waste near the drainage in Varachha,Low,Resolved
+CP1188,2026-05-25 18:17,Varachha,Waste Management,Loud construction noise early morning disturbing residents in Varachha,High,In Progress
+CP1006,2026-05-26 01:17,Piplod,Noise/Nuisance,Open manhole is a safety hazard in Piplod,Low,Resolved
+CP1179,2026-05-26 05:17,Katargam,Street Lighting,Garbage not collected for 3 days in Katargam,Critical,Resolved
+CP1035,2026-05-26 09:17,Vesu,Waste Management,Loud construction noise early morning disturbing residents in Vesu,High,Resolved
+CP1131,2026-05-26 13:17,Adajan,Noise/Nuisance,Heavy traffic congestion during peak hours in Adajan,Medium,Open
+CP1033,2026-05-26 15:17,Ghod Dod Road,Roads & Potholes,Garbage not collected for 3 days in Ghod Dod Road,Low,In Progress
+CP1147,2026-05-26 22:17,Varachha,Roads & Potholes,Water pipeline leakage flooding the street in Varachha,Medium,In Progress
+CP1183,2026-05-28 08:17,City Light,Public Safety,Water pipeline leakage flooding the street in City Light,Low,Resolved
+CP1048,2026-05-28 16:17,Katargam,Roads & Potholes,Open manhole is a safety hazard in Katargam,Low,In Progress
+CP1208,2026-05-28 16:17,Varachha,Roads & Potholes,Large pothole causing traffic slowdown near Varachha main road,Low,Resolved
+CP1046,2026-05-28 19:17,Varachha,Waste Management,Garbage not collected for 3 days in Varachha,Medium,In Progress
+CP1180,2026-05-29 02:17,Vesu,Roads & Potholes,Large pothole causing traffic slowdown near Vesu main road,High,Open
+CP1051,2026-05-29 04:17,Piplod,Parks & Environment,Reports of unsafe stray dog activity near school in Piplod,Low,Open
+CP1000,2026-05-29 07:17,Piplod,Waste Management,Large pothole causing traffic slowdown near Piplod main road,High,Open
+CP1182,2026-05-29 12:17,Ghod Dod Road,Water Supply,Illegal dumping of waste near the drainage in Ghod Dod Road,Low,Resolved
+CP1204,2026-05-29 13:17,Piplod,Traffic & Mobility,Illegal dumping of waste near the drainage in Piplod,Medium,Resolved
+CP1216,2026-05-29 15:17,Ghod Dod Road,Traffic & Mobility,Heavy traffic congestion during peak hours in Ghod Dod Road,High,Resolved
+CP1014,2026-05-29 16:17,Vesu,Noise/Nuisance,"Public park in Vesu needs maintenance, broken benches",High,In Progress
+CP1124,2026-05-29 16:17,City Light,Street Lighting,"Public park in City Light needs maintenance, broken benches",Low,Open
+CP1138,2026-05-29 23:17,Ghod Dod Road,Waste Management,Loud construction noise early morning disturbing residents in Ghod Dod Road,Critical,In Progress
+CP1082,2026-05-30 06:17,City Light,Waste Management,Water pipeline leakage flooding the street in City Light,Low,Open
+CP1025,2026-05-30 16:17,Ghod Dod Road,Water Supply,Water pipeline leakage flooding the street in Ghod Dod Road,Medium,Resolved
+CP1037,2026-05-30 20:17,Varachha,Noise/Nuisance,"Streetlights not working, area is dark and unsafe at night in Varachha",High,Resolved
+CP1036,2026-05-30 21:17,Piplod,Roads & Potholes,Garbage not collected for 3 days in Piplod,Critical,Resolved
+CP1071,2026-05-31 05:17,Varachha,Noise/Nuisance,"Streetlights not working, area is dark and unsafe at night in Varachha",Medium,Resolved
+CP1003,2026-05-31 06:17,Vesu,Noise/Nuisance,Illegal dumping of waste near the drainage in Vesu,Low,Resolved
+CP1201,2026-05-31 12:17,Vesu,Public Safety,Reports of unsafe stray dog activity near school in Vesu,Critical,Open
+CP1209,2026-05-31 12:17,Katargam,Traffic & Mobility,Garbage not collected for 3 days in Katargam,Low,In Progress
+CP1056,2026-05-31 21:17,Piplod,Water Supply,"Streetlights not working, area is dark and unsafe at night in Piplod",High,Resolved
+CP1092,2026-06-01 08:17,Piplod,Waste Management,Large pothole causing traffic slowdown near Piplod main road,High,Resolved
+CP1074,2026-06-02 06:17,Varachha,Waste Management,Loud construction noise early morning disturbing residents in Varachha,Medium,In Progress
+CP1001,2026-06-02 15:17,Adajan,Waste Management,Illegal dumping of waste near the drainage in Adajan,Medium,Open
+CP1089,2026-06-02 22:17,Vesu,Noise/Nuisance,Water pipeline leakage flooding the street in Vesu,Low,Open
+CP1120,2026-06-03 04:17,City Light,Roads & Potholes,Illegal dumping of waste near the drainage in City Light,Critical,Open
+CP1049,2026-06-03 06:17,Adajan,Waste Management,Open manhole is a safety hazard in Adajan,Low,Open
+CP1029,2026-06-03 10:17,Vesu,Street Lighting,Large pothole causing traffic slowdown near Vesu main road,Low,In Progress
+CP1181,2026-06-03 18:17,Vesu,Waste Management,Open manhole is a safety hazard in Vesu,Low,Open
+CP1107,2026-06-03 20:17,Piplod,Noise/Nuisance,Loud construction noise early morning disturbing residents in Piplod,High,Open
+CP1168,2026-06-04 05:17,Ghod Dod Road,Traffic & Mobility,Garbage not collected for 3 days in Ghod Dod Road,Medium,Open
+CP1117,2026-06-04 11:17,Vesu,Water Supply,Illegal dumping of waste near the drainage in Vesu,Critical,Open
+CP1010,2026-06-04 13:17,Piplod,Waste Management,Illegal dumping of waste near the drainage in Piplod,Medium,In Progress
+CP1213,2026-06-04 21:17,Ghod Dod Road,Noise/Nuisance,Heavy traffic congestion during peak hours in Ghod Dod Road,Low,Resolved
+CP1042,2026-06-05 02:17,Piplod,Street Lighting,"Public park in Piplod needs maintenance, broken benches",Low,Resolved
+CP1005,2026-06-05 09:17,Adajan,Parks & Environment,Garbage not collected for 3 days in Adajan,Medium,Open
+CP1104,2026-06-05 18:17,Varachha,Traffic & Mobility,Water pipeline leakage flooding the street in Varachha,Medium,Open
+CP1193,2026-06-05 19:17,Varachha,Parks & Environment,Garbage not collected for 3 days in Varachha,Low,Open
+CP1044,2026-06-05 20:17,Katargam,Public Safety,"Streetlights not working, area is dark and unsafe at night in Katargam",Medium,Open
+CP1020,2026-06-06 00:17,Katargam,Waste Management,Reports of unsafe stray dog activity near school in Katargam,Medium,In Progress
+CP1170,2026-06-06 02:17,City Light,Waste Management,Loud construction noise early morning disturbing residents in City Light,Medium,In Progress
+CP1123,2026-06-06 04:17,Katargam,Public Safety,Loud construction noise early morning disturbing residents in Katargam,Low,Open
+CP1200,2026-06-06 08:17,City Light,Roads & Potholes,Illegal dumping of waste near the drainage in City Light,Critical,Resolved
+CP1109,2026-06-06 17:17,Katargam,Parks & Environment,Open manhole is a safety hazard in Katargam,Low,In Progress
+CP1034,2026-06-06 22:17,Vesu,Street Lighting,Open manhole is a safety hazard in Vesu,Medium,In Progress
+CP1019,2026-06-07 04:17,City Light,Roads & Potholes,Garbage not collected for 3 days in City Light,Medium,In Progress
+CP1009,2026-06-07 06:17,Varachha,Traffic & Mobility,Water pipeline leakage flooding the street in Varachha,Medium,Open
+CP1151,2026-06-07 15:17,Ghod Dod Road,Roads & Potholes,Illegal dumping of waste near the drainage in Ghod Dod Road,Low,In Progress
+CP1038,2026-06-07 21:17,Adajan,Parks & Environment,Reports of unsafe stray dog activity near school in Adajan,Critical,Resolved
+CP1114,2026-06-07 23:17,Katargam,Water Supply,Loud construction noise early morning disturbing residents in Katargam,Low,Open
+CP1167,2026-06-08 07:17,Ghod Dod Road,Water Supply,Reports of unsafe stray dog activity near school in Ghod Dod Road,Critical,Resolved
+CP1023,2026-06-08 15:17,City Light,Traffic & Mobility,Loud construction noise early morning disturbing residents in City Light,Low,Resolved
+CP1164,2026-06-08 22:17,Ghod Dod Road,Water Supply,Garbage not collected for 3 days in Ghod Dod Road,Critical,In Progress
+CP1173,2026-06-08 23:17,Piplod,Parks & Environment,Garbage not collected for 3 days in Piplod,Low,Resolved
+CP1095,2026-06-09 02:17,Ghod Dod Road,Water Supply,Reports of unsafe stray dog activity near school in Ghod Dod Road,Low,Open
+CP1119,2026-06-09 02:17,Varachha,Noise/Nuisance,Reports of unsafe stray dog activity near school in Varachha,High,Resolved
+CP1021,2026-06-09 04:17,Ghod Dod Road,Water Supply,Open manhole is a safety hazard in Ghod Dod Road,Critical,Resolved
+CP1212,2026-06-09 13:17,Varachha,Parks & Environment,"Public park in Varachha needs maintenance, broken benches",Low,In Progress
+CP1012,2026-06-09 20:17,Piplod,Traffic & Mobility,Large pothole causing traffic slowdown near Piplod main road,Low,Open
+CP1067,2026-06-09 20:17,Piplod,Waste Management,Reports of unsafe stray dog activity near school in Piplod,Medium,In Progress
+CP1063,2026-06-09 21:17,Adajan,Waste Management,Illegal dumping of waste near the drainage in Adajan,Medium,In Progress
+CP1070,2026-06-09 22:17,Katargam,Street Lighting,"Public park in Katargam needs maintenance, broken benches",High,In Progress
+CP1211,2026-06-10 02:17,Varachha,Roads & Potholes,"Public park in Varachha needs maintenance, broken benches",Low,Resolved
+CP1145,2026-06-10 07:17,City Light,Parks & Environment,"Streetlights not working, area is dark and unsafe at night in City Light",High,In Progress
+CP1103,2026-06-10 08:17,Varachha,Street Lighting,Loud construction noise early morning disturbing residents in Varachha,Medium,In Progress
+CP1004,2026-06-10 11:17,Varachha,Traffic & Mobility,Reports of unsafe stray dog activity near school in Varachha,Low,Resolved
+CP1214,2026-06-10 15:17,City Light,Parks & Environment,Open manhole is a safety hazard in City Light,Low,Resolved
+CP1060,2026-06-10 16:17,Ghod Dod Road,Street Lighting,"Streetlights not working, area is dark and unsafe at night in Ghod Dod Road",Low,Open
+CP1081,2026-06-10 18:17,Katargam,Noise/Nuisance,Garbage not collected for 3 days in Katargam,High,Open
+CP1192,2026-06-10 22:17,Ghod Dod Road,Street Lighting,"Public park in Ghod Dod Road needs maintenance, broken benches",Medium,Open
+CP1143,2026-06-11 01:17,Piplod,Noise/Nuisance,Water pipeline leakage flooding the street in Piplod,Medium,In Progress
+CP1210,2026-06-11 10:17,Varachha,Street Lighting,Open manhole is a safety hazard in Varachha,Medium,In Progress
+CP1091,2026-06-11 15:17,Ghod Dod Road,Waste Management,Loud construction noise early morning disturbing residents in Ghod Dod Road,Low,In Progress
+CP1162,2026-06-11 15:17,Piplod,Noise/Nuisance,Reports of unsafe stray dog activity near school in Piplod,High,Open
+CP1059,2026-06-11 17:17,Ghod Dod Road,Noise/Nuisance,"Streetlights not working, area is dark and unsafe at night in Ghod Dod Road",Low,Resolved
+CP1206,2026-06-11 21:17,Varachha,Parks & Environment,Reports of unsafe stray dog activity near school in Varachha,Low,In Progress
+CP1177,2026-06-12 11:17,Katargam,Street Lighting,Loud construction noise early morning disturbing residents in Katargam,Medium,Open
+CP1112,2026-06-12 13:17,City Light,Public Safety,Garbage not collected for 3 days in City Light,High,Open
+CP1203,2026-06-12 17:17,Piplod,Street Lighting,"Public park in Piplod needs maintenance, broken benches",Medium,Open
+CP1058,2026-06-13 09:17,Ghod Dod Road,Street Lighting,Reports of unsafe stray dog activity near school in Ghod Dod Road,Low,In Progress
+CP1008,2026-06-13 16:17,Ghod Dod Road,Public Safety,Garbage not collected for 3 days in Ghod Dod Road,High,Resolved
+CP1085,2026-06-13 21:17,Ghod Dod Road,Parks & Environment,Loud construction noise early morning disturbing residents in Ghod Dod Road,Low,Open
+CP1159,2026-06-13 23:17,Piplod,Parks & Environment,Reports of unsafe stray dog activity near school in Piplod,Medium,Open
+CP1155,2026-06-14 03:17,Ghod Dod Road,Water Supply,Water pipeline leakage flooding the street in Ghod Dod Road,Low,In Progress
+CP1068,2026-06-14 05:17,Piplod,Public Safety,Open manhole is a safety hazard in Piplod,Low,In Progress
+CP1133,2026-06-15 00:17,Varachha,Waste Management,Heavy traffic congestion during peak hours in Varachha,Low,Open
+CP1083,2026-06-15 09:17,Vesu,Waste Management,"Public park in Vesu needs maintenance, broken benches",Medium,In Progress
+CP1165,2026-06-15 13:17,Adajan,Traffic & Mobility,Water pipeline leakage flooding the street in Adajan,Low,Open
+CP1090,2026-06-15 16:17,Katargam,Traffic & Mobility,"Public park in Katargam needs maintenance, broken benches",Low,Resolved
+CP1141,2026-06-15 18:17,Piplod,Water Supply,Garbage not collected for 3 days in Piplod,Low,Resolved
+CP1032,2026-06-15 22:17,Vesu,Waste Management,Garbage not collected for 3 days in Vesu,Medium,Open
+CP1099,2026-06-15 23:17,Katargam,Waste Management,Open manhole is a safety hazard in Katargam,Medium,Open
+CP1055,2026-06-16 03:17,Vesu,Street Lighting,Garbage not collected for 3 days in Vesu,Medium,In Progress
+CP1175,2026-06-16 04:17,Piplod,Parks & Environment,Illegal dumping of waste near the drainage in Piplod,High,Open
+CP1194,2026-06-16 11:17,Vesu,Noise/Nuisance,Garbage not collected for 3 days in Vesu,Low,Open
+CP1015,2026-06-17 02:17,Vesu,Street Lighting,Open manhole is a safety hazard in Vesu,Medium,In Progress
+CP1098,2026-06-17 05:17,Ghod Dod Road,Waste Management,Illegal dumping of waste near the drainage in Ghod Dod Road,High,Open
+CP1127,2026-06-17 07:17,Katargam,Noise/Nuisance,Loud construction noise early morning disturbing residents in Katargam,Low,Open
+CP1196,2026-06-17 07:17,Katargam,Waste Management,"Public park in Katargam needs maintenance, broken benches",Medium,In Progress
+CP1185,2026-06-17 19:17,Piplod,Parks & Environment,Open manhole is a safety hazard in Piplod,Low,Open
+CP1027,2026-06-18 00:17,Piplod,Public Safety,"Public park in Piplod needs maintenance, broken benches",Critical,In Progress
+CP1078,2026-06-18 03:17,Ghod Dod Road,Noise/Nuisance,Open manhole is a safety hazard in Ghod Dod Road,Critical,In Progress
+CP1219,2026-06-18 04:17,City Light,Traffic & Mobility,Heavy traffic congestion during peak hours in City Light,Low,Open
+CP1218,2026-06-18 05:17,Vesu,Noise/Nuisance,Loud construction noise early morning disturbing residents in Vesu,High,Resolved
+CP1077,2026-06-18 12:17,Varachha,Roads & Potholes,Open manhole is a safety hazard in Varachha,Low,Resolved
+CP1157,2026-06-18 17:17,Katargam,Noise/Nuisance,Reports of unsafe stray dog activity near school in Katargam,Medium,Resolved
+CP1174,2026-06-18 19:17,Adajan,Waste Management,"Streetlights not working, area is dark and unsafe at night in Adajan",High,Open
+CP1190,2026-06-19 00:17,Piplod,Traffic & Mobility,"Public park in Piplod needs maintenance, broken benches",Critical,In Progress
+CP1156,2026-06-19 04:17,Piplod,Street Lighting,Loud construction noise early morning disturbing residents in Piplod,Critical,Open
+CP1115,2026-06-19 11:17,Varachha,Noise/Nuisance,Heavy traffic congestion during peak hours in Varachha,Low,Open
+CP1187,2026-06-19 20:17,Ghod Dod Road,Public Safety,Loud construction noise early morning disturbing residents in Ghod Dod Road,Medium,Open
+CP1031,2026-06-19 21:17,City Light,Water Supply,Illegal dumping of waste near the drainage in City Light,Medium,Open
+CP1079,2026-06-19 22:17,Ghod Dod Road,Parks & Environment,Open manhole is a safety hazard in Ghod Dod Road,Medium,Open
+CP1139,2026-06-19 23:17,Piplod,Public Safety,Open manhole is a safety hazard in Piplod,High,In Progress
+CP1129,2026-06-20 00:17,Adajan,Public Safety,Illegal dumping of waste near the drainage in Adajan,Low,Resolved
+CP1106,2026-06-20 04:17,Piplod,Parks & Environment,Loud construction noise early morning disturbing residents in Piplod,Medium,Open
+CP1016,2026-06-20 10:17,Varachha,Traffic & Mobility,"Streetlights not working, area is dark and unsafe at night in Varachha",Critical,Open
+CP1024,2026-06-20 10:17,Adajan,Street Lighting,Illegal dumping of waste near the drainage in Adajan,Critical,Open
+CP1030,2026-06-20 14:17,Adajan,Traffic & Mobility,Garbage not collected for 3 days in Adajan,Medium,Open
+CP1205,2026-06-21 03:17,Ghod Dod Road,Roads & Potholes,Garbage not collected for 3 days in Ghod Dod Road,Low,In Progress
+CP1197,2026-06-21 14:17,Adajan,Public Safety,Illegal dumping of waste near the drainage in Adajan,Low,Open
+CP1215,2026-06-21 14:17,Katargam,Water Supply,Garbage not collected for 3 days in Katargam,Medium,Open
+CP1166,2026-06-21 16:17,Vesu,Water Supply,Open manhole is a safety hazard in Vesu,High,Open
+CP1040,2026-06-22 00:17,Piplod,Roads & Potholes,Heavy traffic congestion during peak hours in Piplod,Low,In Progress
+CP1022,2026-06-22 08:17,City Light,Street Lighting,Water pipeline leakage flooding the street in City Light,Medium,Open
+CP1018,2026-06-22 16:17,City Light,Waste Management,"Public park in City Light needs maintenance, broken benches",Medium,Resolved
+CP1134,2026-06-22 19:17,Ghod Dod Road,Roads & Potholes,Open manhole is a safety hazard in Ghod Dod Road,Medium,Open
+CP1118,2026-06-22 20:17,City Light,Parks & Environment,Illegal dumping of waste near the drainage in City Light,Medium,In Progress
+CP1002,2026-06-23 21:17,City Light,Roads & Potholes,Open manhole is a safety hazard in City Light,Low,In Progress
+CP1101,2026-06-23 23:17,Varachha,Water Supply,Open manhole is a safety hazard in Varachha,Critical,Open
+CP1047,2026-06-24 06:17,Adajan,Street Lighting,Heavy traffic congestion during peak hours in Adajan,Low,In Progress
+CP1110,2026-06-24 06:17,Katargam,Street Lighting,Garbage not collected for 3 days in Katargam,High,Open
+CP1132,2026-06-24 09:17,Katargam,Parks & Environment,Loud construction noise early morning disturbing residents in Katargam,Low,Resolved
+CP1053,2026-06-24 12:17,Adajan,Water Supply,Open manhole is a safety hazard in Adajan,Low,Open
+CP1135,2026-06-24 12:17,City Light,Noise/Nuisance,Loud construction noise early morning disturbing residents in City Light,High,Open
+CP1011,2026-06-24 15:17,Varachha,Parks & Environment,Reports of unsafe stray dog activity near school in Varachha,Critical,In Progress
+CP1198,2026-06-24 19:17,Vesu,Noise/Nuisance,"Streetlights not working, area is dark and unsafe at night in Vesu",High,Open
+CP1108,2026-06-25 00:17,Piplod,Street Lighting,Reports of unsafe stray dog activity near school in Piplod,Medium,Open
+CP1195,2026-06-25 01:17,Piplod,Traffic & Mobility,Water pipeline leakage flooding the street in Piplod,Medium,In Progress
+CP1199,2026-06-25 03:17,Adajan,Public Safety,Illegal dumping of waste near the drainage in Adajan,Low,In Progress
+CP1093,2026-06-25 14:17,City Light,Water Supply,"Streetlights not working, area is dark and unsafe at night in City Light",Low,In Progress
+CP1043,2026-06-26 00:17,City Light,Roads & Potholes,Illegal dumping of waste near the drainage in City Light,Low,In Progress
+CP1128,2026-06-26 02:17,Katargam,Public Safety,Large pothole causing traffic slowdown near Katargam main road,Low,Resolved
+CP1154,2026-06-26 05:17,Katargam,Traffic & Mobility,"Public park in Katargam needs maintenance, broken benches",Low,In Progress
+CP1062,2026-06-26 16:17,Katargam,Roads & Potholes,Garbage not collected for 3 days in Katargam,High,Open
+CP1158,2026-06-26 17:17,Piplod,Water Supply,Garbage not collected for 3 days in Piplod,Medium,Open
+CP1111,2026-06-27 00:17,Vesu,Street Lighting,"Streetlights not working, area is dark and unsafe at night in Vesu",High,Open
+CP1028,2026-06-27 01:17,Varachha,Waste Management,"Streetlights not working, area is dark and unsafe at night in Varachha",Low,Open
+CP1189,2026-06-27 01:17,City Light,Water Supply,Garbage not collected for 3 days in City Light,Low,In Progress
+CP1142,2026-06-27 02:17,Ghod Dod Road,Public Safety,Large pothole causing traffic slowdown near Ghod Dod Road main road,Low,Open
+CP1096,2026-06-27 06:17,Piplod,Parks & Environment,"Public park in Piplod needs maintenance, broken benches",Critical,Open
+CP1041,2026-06-27 10:17,Vesu,Roads & Potholes,Open manhole is a safety hazard in Vesu,Low,Open
+CP1136,2026-06-27 15:17,Katargam,Noise/Nuisance,Loud construction noise early morning disturbing residents in Katargam,Low,Resolved
+CP1140,2026-06-28 00:17,Vesu,Noise/Nuisance,Open manhole is a safety hazard in Vesu,Low,Open
+CP1125,2026-06-28 07:17,Ghod Dod Road,Water Supply,Garbage not collected for 3 days in Ghod Dod Road,Low,Resolved
+CP1066,2026-06-28 18:17,Katargam,Parks & Environment,Garbage not collected for 3 days in Katargam,Critical,Resolved
+CP1087,2026-06-29 01:17,Katargam,Parks & Environment,Water pipeline leakage flooding the street in Katargam,High,Resolved
+CP1171,2026-06-29 01:17,Varachha,Traffic & Mobility,Garbage not collected for 3 days in Varachha,Medium,In Progress
+CP1080,2026-06-29 15:17,Katargam,Street Lighting,Reports of unsafe stray dog activity near school in Katargam,High,In Progress
+CP1130,2026-06-29 23:17,Piplod,Noise/Nuisance,Reports of unsafe stray dog activity near school in Piplod,Low,In Progress
+CP1149,2026-06-30 10:17,Adajan,Noise/Nuisance,Reports of unsafe stray dog activity near school in Adajan,Low,In Progress
+CP1217,2026-06-30 10:17,Adajan,Water Supply,Reports of unsafe stray dog activity near school in Adajan,Low,In Progress
+CP1146,2026-06-30 12:17,Varachha,Parks & Environment,"Public park in Varachha needs maintenance, broken benches",Critical,Resolved
+CP1148,2026-06-30 12:17,Adajan,Noise/Nuisance,Large pothole causing traffic slowdown near Adajan main road,High,In Progress
+CP1088,2026-06-30 21:17,Adajan,Parks & Environment,Illegal dumping of waste near the drainage in Adajan,Medium,Open
+CP1191,2026-07-01 04:17,City Light,Parks & Environment,Garbage not collected for 3 days in City Light,High,Open
+CP1065,2026-07-01 14:17,Varachha,Roads & Potholes,Open manhole is a safety hazard in Varachha,Critical,In Progress
+CP1007,2026-07-01 15:17,Katargam,Traffic & Mobility,Illegal dumping of waste near the drainage in Katargam,Low,Open
+CP1163,2026-07-02 05:17,Piplod,Street Lighting,Illegal dumping of waste near the drainage in Piplod,Low,Resolved
+CP1057,2026-07-02 07:17,Adajan,Water Supply,Heavy traffic congestion during peak hours in Adajan,High,In Progress
+CP1116,2026-07-02 09:17,Ghod Dod Road,Waste Management,"Public park in Ghod Dod Road needs maintenance, broken benches",Medium,In Progress
+CP1017,2026-07-02 21:17,Ghod Dod Road,Roads & Potholes,Garbage not collected for 3 days in Ghod Dod Road,Low,Open
+CP1061,2026-07-03 01:17,Ghod Dod Road,Waste Management,Reports of unsafe stray dog activity near school in Ghod Dod Road,Medium,In Progress
+CP1097,2026-07-03 03:17,Ghod Dod Road,Street Lighting,Garbage not collected for 3 days in Ghod Dod Road,Medium,Open
+CP1075,2026-07-03 08:17,Piplod,Parks & Environment,Loud construction noise early morning disturbing residents in Piplod,Medium,Open
+CP1084,2026-07-03 08:17,Vesu,Parks & Environment,"Public park in Vesu needs maintenance, broken benches",Critical,In Progress
+CP1026,2026-07-03 14:17,City Light,Parks & Environment,"Streetlights not working, area is dark and unsafe at night in City Light",Critical,Resolved
+CP1144,2026-07-03 15:17,Ghod Dod Road,Parks & Environment,Loud construction noise early morning disturbing residents in Ghod Dod Road,Critical,Resolved
+CP1160,2026-07-03 17:17,Adajan,Street Lighting,"Public park in Adajan needs maintenance, broken benches",Medium,In Progress
+CP1172,2026-07-03 17:17,Katargam,Street Lighting,Garbage not collected for 3 days in Katargam,Medium,In Progress
+CP1126,2026-07-03 20:17,Ghod Dod Road,Public Safety,Loud construction noise early morning disturbing residents in Ghod Dod Road,Low,In Progress
+CP1076,2026-07-04 00:17,Ghod Dod Road,Waste Management,"Public park in Ghod Dod Road needs maintenance, broken benches",Low,Resolved
+CP1094,2026-07-04 11:17,Varachha,Public Safety,Heavy traffic congestion during peak hours in Varachha,Low,In Progress
+CP1152,2026-07-04 11:17,Piplod,Waste Management,"Public park in Piplod needs maintenance, broken benches",Critical,Resolved
+CP1100,2026-07-04 12:17,Adajan,Parks & Environment,Heavy traffic congestion during peak hours in Adajan,Medium,Resolved
+CP1013,2026-07-04 18:17,Katargam,Waste Management,"Streetlights not working, area is dark and unsafe at night in Katargam",Critical,In Progress
+CP1150,2026-07-04 23:17,Ghod Dod Road,Traffic & Mobility,Open manhole is a safety hazard in Ghod Dod Road,Medium,Open
