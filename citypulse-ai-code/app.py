@@ -17,7 +17,7 @@ from datetime import datetime
 # CONFIG
 # ---------------------------------------------------------------------------
 st.set_page_config(page_title="CityPulse AI", page_icon="🏙️", layout="wide")
-DATA_FILE = "community_reports.csv"
+DATA_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "community_reports.csv")
 
 CATEGORIES = ["Roads & Potholes", "Waste Management", "Water Supply", "Street Lighting",
               "Public Safety", "Traffic & Mobility", "Parks & Environment", "Noise/Nuisance"]
